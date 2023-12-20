@@ -162,7 +162,7 @@ body {
   position: relative;
   border-bottom: 1px solid #000000; /*stroke*/
   border-top: 1px solid #000000; /*stroke*/
-  background: url(images/rectangle_8.jpg) no-repeat  -0.5px -0.5px;
+  background: url(rectangle_8.jpg) no-repeat  -0.5px -0.5px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box; /*Will not allow bg color to leak outside borders*/
