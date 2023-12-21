@@ -137,10 +137,10 @@ html {
   font-size: 16px;
 }
 body {
-  min-width: 1055px;
-  color: #050001;
+   min-width: 1125px;
+  color: #fbfafa;
   font-family: Rasa, serif;
-  font-size: 30.23189px;
+  font-size: 25.01847px;
   font-style: normal;
   font-weight: normal;
   letter-spacing: 0;
@@ -149,7 +149,7 @@ body {
 body {
   float: none;
   height: auto;
-  margin: 41px auto 0;
+  margin: 0 auto;
   position: relative;
   width: 100%; /* 1125px / 1125px = 100% */
 }
@@ -165,10 +165,8 @@ body {
   width: 1125px;
 }
 .header {
-  margin: 0 auto;
   position: relative;
-  right: 15px;
-  width: 1125px;
+  width: 953px;
 }
 .ellipse-1 {
   float: left;
@@ -639,8 +637,8 @@ body {
   text-align: center;
 }
 .contact-me {
-  margin: 50px auto 0;
-  padding: 24px 0 47px;
+   margin: 42px 0 0;
+  padding: 24px 0 120px;
   position: relative;
   border-right: 0.5px solid #000000; /*stroke*/
   border-left: 1px solid #000000; /*stroke*/
@@ -650,12 +648,12 @@ body {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box; /*Will not allow bg color to leak outside borders*/
-}
+  
 .l-constrained-2 {
   margin: 0 auto;
   padding: 0 87px;
   position: relative;
-  width: 1055px;
+  width: 1125px;
 }
 .text-23 {
   margin: 0 0 0 21px;
