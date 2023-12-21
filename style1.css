@@ -151,7 +151,7 @@ body {
   height: auto;
   margin: 41px auto 0;
   position: relative;
-  width: 99.91111%; /* 1124px / 1125px = 99.91111% */
+  width: 100%; /* 1125px / 1125px = 100% */
 }
 .artboard-2 {
   position: relative;
