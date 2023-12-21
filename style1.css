@@ -166,7 +166,7 @@ body {
 }
 .header {
   left: 50%;
-  position: absolute;
+  position: relative;
   top: 41px;
   width: 953px;
   margin-left: -508px;
