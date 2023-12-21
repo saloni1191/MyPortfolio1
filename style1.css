@@ -165,8 +165,11 @@ body {
   width: 1125px;
 }
 .header {
-  position: relative;
+  left: 50%;
+  position: absolute;
+  top: 41px;
   width: 953px;
+  margin-left: -508px;
 }
 .ellipse-1 {
   float: left;
