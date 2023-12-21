@@ -167,7 +167,7 @@ body {
 .header {
   left: 50%;
   position: relative;
-  top: 41px;
+  top: 30px;
   width: 953px;
   margin-left: -508px;
 }
@@ -624,8 +624,8 @@ body {
   vertical-align: top;
 }
 .rectangle-1-copy-holder {
-  left: 13.5px;
-  margin: 47px auto 0;
+  left: 346px;
+  margin: 14px auto 0;
   min-height: 40px;
   padding: 0 45px;
   position: relative;
